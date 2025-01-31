@@ -28,12 +28,15 @@
     justify-content: center;
     align-items: center;
     row-gap: 1rem;
+    align-content: center;
+
 }
 
 .top-name-container{
     width: fit-content;
     height: auto;
     padding: 1rem;
+    text-align: center;
 }
 
 .top-name-container p{
@@ -124,7 +127,7 @@
 
 .first-color-container{
     padding: 1rem 2rem;
-    background-color: #827474;
+    background-color: #F4F4F4;
     width: 100%;
     height: 10rem;
     display: flex;
@@ -139,7 +142,7 @@
 
 .second-color-container{
     padding: 1rem 2rem;
-    background-color: #827474;
+    background-color: #F4F4F4;
     width: 100%;
     height: 10rem;
     display: flex;
@@ -152,7 +155,7 @@
 
 .third-color-container{
     padding: 1rem 2rem;
-    background-color: #827474;
+    background-color: #F4F4F4;
     width: 100%;
     height: 10rem;
     display: flex;
@@ -164,7 +167,7 @@
 
 .fourth-color-container{
     padding: 1rem 2rem;
-    background-color:#827474;
+    background-color:#F4F4F4;
     width: 100%;
     height: 10rem;
     display: flex;
