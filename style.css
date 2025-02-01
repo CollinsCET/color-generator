@@ -36,13 +36,13 @@
     height: auto;
     text-align: center;
     background-color: #8cd1d1;
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 
 .title-container h2{
     color: #115757;
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 400;
     padding: 1rem 2rem;
     
 }
@@ -55,9 +55,9 @@
 }
 
 .description-container h1{
-    color: #299e9e;
+    color: #053535;
     font-size: 1.5rem;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 .color-container{
@@ -89,7 +89,7 @@
     border: none;
     border-radius: 0.4rem;
     cursor: pointer;
-    color: beige;
+    color: rgb(234, 234, 228);
     font-size: 1rem;
     font-weight: 600;
     background-color: #176767;
